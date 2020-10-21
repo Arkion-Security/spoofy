@@ -7,7 +7,6 @@ Email spoofing script that uses a local SMTP server. Tested with postfix.
 ```
 
 gem install optimist
-gem install net/smtp
 
 Requires local SMTP server. Tested with postfix.
 
